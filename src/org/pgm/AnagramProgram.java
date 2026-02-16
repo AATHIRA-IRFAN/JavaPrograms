@@ -5,10 +5,13 @@ import java.util.Arrays;
 public class AnagramProgram {
 
 	public static void main(String[] args) {
+
 		
 		System.out.println("Started the program");
 
 		System.out.println("final program");
+
+		System.out.println("Pgm Started");
 
 		String s1 = "silent";
 		String s2 = "listen";
